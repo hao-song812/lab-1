@@ -11,3 +11,8 @@ body {
   color: red;
 }
 
+#cool-section {
+  border: 4px solid gray;
+  background-color: yellow;
+  height: 300px;
+}
